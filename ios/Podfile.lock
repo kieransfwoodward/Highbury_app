@@ -1,0 +1,117 @@
+PODS:
+  - beacons_plugin (0.0.1):
+    - Flutter
+  - camera_avfoundation (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_native_splash (0.0.1):
+    - Flutter
+  - flutter_web_browser (0.15.0):
+    - Flutter
+  - lottie-ios (3.2.3)
+  - maps_launcher (0.0.1):
+    - Flutter
+  - mark922_flutter_lottie (0.0.1):
+    - Flutter
+    - lottie-ios
+  - nfc_in_flutter (1.0.0):
+    - Flutter
+  - nfc_manager (0.0.1):
+    - Flutter
+  - pedometer (0.0.1):
+    - Flutter
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - sensors (0.0.1):
+    - Flutter
+  - share (0.0.1):
+    - Flutter
+  - shared_preferences_ios (0.0.1):
+    - Flutter
+  - TensorFlowLiteC (2.2.0)
+  - tflite (1.1.2):
+    - Flutter
+    - TensorFlowLiteC
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - beacons_plugin (from `.symlinks/plugins/beacons_plugin/ios`)
+  - camera_avfoundation (from `.symlinks/plugins/camera_avfoundation/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_native_splash (from `.symlinks/plugins/flutter_native_splash/ios`)
+  - flutter_web_browser (from `.symlinks/plugins/flutter_web_browser/ios`)
+  - maps_launcher (from `.symlinks/plugins/maps_launcher/ios`)
+  - mark922_flutter_lottie (from `.symlinks/plugins/mark922_flutter_lottie/ios`)
+  - nfc_in_flutter (from `.symlinks/plugins/nfc_in_flutter/ios`)
+  - nfc_manager (from `.symlinks/plugins/nfc_manager/ios`)
+  - pedometer (from `.symlinks/plugins/pedometer/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - sensors (from `.symlinks/plugins/sensors/ios`)
+  - share (from `.symlinks/plugins/share/ios`)
+  - shared_preferences_ios (from `.symlinks/plugins/shared_preferences_ios/ios`)
+  - tflite (from `.symlinks/plugins/tflite/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - TensorFlowLiteC
+
+EXTERNAL SOURCES:
+  beacons_plugin:
+    :path: ".symlinks/plugins/beacons_plugin/ios"
+  camera_avfoundation:
+    :path: ".symlinks/plugins/camera_avfoundation/ios"
+  Flutter:
+    :path: Flutter
+  flutter_native_splash:
+    :path: ".symlinks/plugins/flutter_native_splash/ios"
+  flutter_web_browser:
+    :path: ".symlinks/plugins/flutter_web_browser/ios"
+  maps_launcher:
+    :path: ".symlinks/plugins/maps_launcher/ios"
+  mark922_flutter_lottie:
+    :path: ".symlinks/plugins/mark922_flutter_lottie/ios"
+  nfc_in_flutter:
+    :path: ".symlinks/plugins/nfc_in_flutter/ios"
+  nfc_manager:
+    :path: ".symlinks/plugins/nfc_manager/ios"
+  pedometer:
+    :path: ".symlinks/plugins/pedometer/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  sensors:
+    :path: ".symlinks/plugins/sensors/ios"
+  share:
+    :path: ".symlinks/plugins/share/ios"
+  shared_preferences_ios:
+    :path: ".symlinks/plugins/shared_preferences_ios/ios"
+  tflite:
+    :path: ".symlinks/plugins/tflite/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  beacons_plugin: 451bca1eea362d21793d61d58fa26d494cf19718
+  camera_avfoundation: 07c77549ea54ad95d8581be86617c094a46280d9
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_native_splash: 52501b97d1c0a5f898d687f1646226c1f93c56ef
+  flutter_web_browser: dcd4d56462dc03099dbff2f89a3e93014d8e8e06
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+  maps_launcher: 2e5b6a2d664ec6c27f82ffa81b74228d770ab203
+  mark922_flutter_lottie: 0b49b26f6677004aa45c3fc1cdeada619e36a04a
+  nfc_in_flutter: c656fbfb1ec5b9d021da87b0c87629d62fd5264d
+  nfc_manager: d7da7cb781f7744b94df5fe9dbca904ac4a0939e
+  pedometer: 381969883680ade42559782cc41a3bbd453d8234
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  sensors: 84eb7a30e47a649e4172b71d6e81be614c280336
+  share: 0b2c3e82132f5888bccca3351c504d0003b3b410
+  shared_preferences_ios: 548a61f8053b9b8a49ac19c1ffbc8b92c50d68ad
+  TensorFlowLiteC: b3ab9e867b0b71052ca102a32a786555b330b02e
+  tflite: 7acd11db0915e2d90ab90474413068568eb605f0
+  url_launcher_ios: 839c58cdb4279282219f5e248c3321761ff3c4de
+
+PODFILE CHECKSUM: edb9e77c1ba38227b29f55007543e920836b46fc
+
+COCOAPODS: 1.11.3

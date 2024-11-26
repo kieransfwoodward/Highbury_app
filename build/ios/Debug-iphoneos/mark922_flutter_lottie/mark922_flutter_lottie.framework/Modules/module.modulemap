@@ -1,0 +1,11 @@
+framework module mark922_flutter_lottie {
+  umbrella header "mark922_flutter_lottie-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module mark922_flutter_lottie.Swift {
+  header "mark922_flutter_lottie-Swift.h"
+  requires objc
+}
